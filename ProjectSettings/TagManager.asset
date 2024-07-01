@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - ai
+  - whatIsGround
+  - whatIsPlayer
+  - Wood
+  - Metal
+  - Concrete
+  - Flesh
+  - Interact
+  - Interactv
+  - Interactv=
+  - Interactv=\
+  - Interacti
+  - Interactiv
+  - Interactive
+  - InteractiveO
+  - InteractiveOb
+  - InteractiveObj
+  - InteractiveObje
+  - InteractiveObjec
+  - InteractiveObject
+  - Undefined
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - whatIsGround
+  - whatIsPlayer
+  - Character
+  - Ground
+  - Post Processing
+  - Interact
+  - Obstruction
+  - Weapon
+  - AI
+  - whatIsSound
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

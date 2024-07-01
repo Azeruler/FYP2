@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 336322d0126b66646a5504967c73fae8, type: 3}
+  m_Name: Pills
+  m_EditorClassIdentifier: 
+  itemName: Pills
+  sprite: {fileID: 21300000, guid: cc1d47cf07758074986de39fa1d4ad70, type: 3}
+  itemDescription: Pills for minor injuries.
+  statToChange: 1
+  amountToChangeStat: 20
+  mesh: {fileID: 6936688605405757633, guid: e8c4fc4e8302dc843956efa3bd3876b4, type: 3}
+  material: {fileID: 2100000, guid: c8757e4ac82f7d444847a0fd25172c77, type: 2}

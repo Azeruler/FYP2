@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6b32b0e562c24f347bddcd8cc3a0e7a7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - woodParticle: {fileID: 7205648881483509970, guid: 6f12f1f0f868dd54e8382cfb97e6e7ca,
+      type: 3}
+  - metalParticle: {fileID: 1484677405800627924, guid: 8460db5f318296e4cb488d679d453cf7,
+      type: 3}
+  - concreteParticle: {fileID: 7170436269101754501, guid: 50d36cbf7c87687448bfd25a71bce24b,
+      type: 3}
+  - fleshParticle: {fileID: 8182892502654495215, guid: 6d710b3db470ac0499cce514cec71d05,
+      type: 3}
+  - woodHitSound: {instanceID: 0}
+  - metalHitSound: {instanceID: 0}
+  - concreteHitSound: {instanceID: 0}
+  - fleshHitSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

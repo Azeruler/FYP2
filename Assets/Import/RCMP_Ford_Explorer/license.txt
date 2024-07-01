@@ -1,0 +1,11 @@
+Model Information:
+* title:	RCMP Ford Explorer
+* source:	https://sketchfab.com/3d-models/rcmp-ford-explorer-a02bcad477ce461994c63f5c7212c3b6
+* author:	valvetin (https://sketchfab.com/valvetin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "RCMP Ford Explorer" (https://sketchfab.com/3d-models/rcmp-ford-explorer-a02bcad477ce461994c63f5c7212c3b6) by valvetin (https://sketchfab.com/valvetin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

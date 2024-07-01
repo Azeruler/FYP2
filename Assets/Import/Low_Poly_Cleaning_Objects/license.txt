@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Cleaning Objects
+* source:	https://sketchfab.com/3d-models/low-poly-cleaning-objects-0756e601a5fe4e1fae6abfb37e717e0c
+* author:	christian.trejo (https://sketchfab.com/christian.trejo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Cleaning Objects" (https://sketchfab.com/3d-models/low-poly-cleaning-objects-0756e601a5fe4e1fae6abfb37e717e0c) by christian.trejo (https://sketchfab.com/christian.trejo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
